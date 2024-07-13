@@ -166,3 +166,6 @@ nohup.out
 peft/temp/
 deepspeed/output_dir
 RLHF
+
+# homework
+transformers/*.safetensors
